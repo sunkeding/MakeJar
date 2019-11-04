@@ -1,0 +1,2 @@
+include ':app', ':generatejar'
+rootProject.name='MakeJar'
